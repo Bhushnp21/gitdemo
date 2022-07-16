@@ -16,5 +16,32 @@ public class LoginPageTest extends BaseTest {
 		
 		
 	}
+	
+	
+	@Test
+	public void loginPageTitleTest2(){
+		System.out.println("fot git testing22");
+		System.out.println("fot git testing23");
 
+		
+		
+	}
+	
+	@Test
+	public void loginPageTitleTest3() {
+		System.out.println("fot git testing32");
+	
+		
+		
+	}
+	@Test
+	public void loginPageTitleTest4() {
+		System.out.println("fot git testing44442");
+		
+		
+	}
+	@Test
+	public void loginPageTitleTest5() {
+		System.out.println("fot git dfgdfgdfgdf");
+	}
 }
