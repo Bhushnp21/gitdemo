@@ -19,7 +19,7 @@ public class LoginPageTest extends BaseTest {
 	
 	
 	@Test
-	public void loginPageTitleTest() 2{
+	public void loginPageTitleTest2(){
 		System.out.println("fot git testing22");
 		System.out.println("fot git testing23");
 
@@ -34,5 +34,7 @@ public class LoginPageTest extends BaseTest {
 		
 		
 	}
-
+	@Test
+	public void loginPageTitleTest4() {
+		System.out.println("fot git testing44442");
 }
