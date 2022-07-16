@@ -2,5 +2,5 @@ Alphabates
 a
 b
 c
-d
+
 
