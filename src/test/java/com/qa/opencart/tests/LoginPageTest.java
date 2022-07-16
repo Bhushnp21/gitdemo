@@ -6,7 +6,7 @@ public class LoginPageTest extends BaseTest {
 	
 	@Test
 	public void loginPageTitleTest() {
-		
+		System.out.println("fot git testing2");
 	}
 
 }

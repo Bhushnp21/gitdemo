@@ -16,12 +16,14 @@ public class BaseTest {
 	public void setup() {
 		df=new DriverFactory();
 		driver=df.init_driver("chrome");
+		System.out.println("fot git testing");
 	}
 	
 	@AfterTest
 		public void tearDown()
 		{
 			driver.quit();
+		
 		}
 	
 }
